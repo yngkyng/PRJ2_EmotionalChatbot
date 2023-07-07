@@ -19,11 +19,11 @@ Python(vscode),Django(Pycharm)
  * 모델을 개선하기보다 챗봇 구현이라는 목적에 더 적합한 방법으로 프로젝트 계획을 수정함.
     
  #### 3-2. SBERT 모델을 사용한 문장 생성 모델 학습
- ![image](https://github.com/yngkyng/PRJ2_EmotionalChatbot/assets/121409505/33b6d078-caa0-4a85-8f6b-49e4cbffe8f2)
+  ![image](https://github.com/yngkyng/PRJ2_EmotionalChatbot/assets/121409505/33b6d078-caa0-4a85-8f6b-49e4cbffe8f2)
  * STS, NLI 학습을 시도함.
  * STS 학습 완료. NLI 학습까지는 시간 문제로 완료하지 못함.
  * 기존에 학습되어진 여러 모델을 시도해보고 가장 맥락에 맞는 답을 잘 내놓는 모델로 채택. (klue-roberta-base 모델에 nli와 sts 학습을 시킨 모델 선택)
 
 ### 4. Django를 이용한 챗봇 제작
-   * Emotion
    ![image](https://github.com/yngkyng/PRJ2_EmotionalChatbot/assets/121409505/3aa560e3-dfdc-4d5d-9118-8f53b4ba9783)
+   * Emotion
