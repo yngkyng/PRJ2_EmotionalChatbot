@@ -27,3 +27,6 @@ Python(vscode),Django(Pycharm)
 ### 4. Django를 이용한 챗봇 제작
    ![image](https://github.com/yngkyng/PRJ2_EmotionalChatbot/assets/121409505/3aa560e3-dfdc-4d5d-9118-8f53b4ba9783)
    * Emotion
+
+## 추가자료
+[Emotion/static 폴더에 추가해야할 데이터](https://drive.google.com/drive/folders/1UP7ALoQ-oXCIQolzkEWGLUW5Y6_Rgo4q?usp=sharing)
